@@ -218,9 +218,7 @@
                   android:layout_width="match_parent"
                   android:layout_height="match_parent"
                   android:textStyle="bold"
-                  android:textColor="@color/recording_progress_text_color"
                   android:textSize="@dimen/recording_progress_text_size"
-                  android:background="@color/recording_progress_background"
                   android:visibility="gone"
                   android:gravity="center"/>
 
